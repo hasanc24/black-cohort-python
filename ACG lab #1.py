@@ -1,5 +1,5 @@
 
-#1st ACG Lab
+#1st ACG Lap
 #Python implemention goes here 
 
 fahrenheit = float(input("What temperature (in Frhrenheit) would you like converted to Celsius?"))
